@@ -1,4 +1,4 @@
-The following code is the implementation of the paper: "Explainable Recommendation System Using Aspect Based Sentiment Analysis"
+The following code is the implementation of "Explainable Recommendation System Using Aspect Based Sentiment Analysis"
 
 *make sure the data folder containes files: Toronto_rest_reviews_absa_final.pkl and yelp_business.csv
 
